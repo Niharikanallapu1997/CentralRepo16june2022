@@ -1,0 +1,5 @@
+Class Test{
+Public ststic void main(String[]args){
+System.out.println("Hello java");
+}
+}
